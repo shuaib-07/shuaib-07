@@ -1,17 +1,17 @@
 <div align="center">
 
-  <!-- Dynamic Wave Header Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Muhammed%20Shuaib&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Architect%20%E2%80%A2%20Systems%20%26%20Mobile%20Developer&descAlignY=60&descSize=18" alt="Muhammed Shuaib" />
-
+  <!-- Dynamic Wave Header Banner (No '&' character in query) -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e3092,100:9c7e86&height=220&section=header&text=Muhammed%20Shuaib&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Full-Stack%20Architect&descAlignY=60&descSize=18" alt="Header Banner" />
+  
   <!-- Contact, Socials & Buy Me a Chai -->
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <a href="https://www.linkedin.com/in/muhammed-shuaib-6430881b5">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="LinkedIn" />
     </a>
     <a href="https://github.com/shuaib-07">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub" />
     </a>
-    <a href="mailto:YOUR_EMAIL@DOMAIN.COM">
+    <a href="mailto:mdshuaib2005@gmail.com">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg" alt="Email" />
     </a>
     <a href="https://www.buymeachai.in/shuaib07">
@@ -44,10 +44,10 @@
 
 ### 👨‍💻 About Me
 
-* 📍 Based in **Bengaluru, India**
-* 🚀 **Software Engineer & Full-Stack Developer** specializing in high-concurrency web platforms, distributed backend services, native Android apps, and cross-platform desktop tooling.
-* 🛠️ Proven track record building enterprise manufacturing ERP systems, quick-commerce marketplaces, and recommerce platforms handling transactional row-level locking and automated order lifecycles.
-* 💡 Passionate about clean architecture, local-first software design, scalable APIs, and self-hosted cloud deployments.
+*  Based in **Bengaluru, India**
+*  **Software Engineer & Full-Stack Developer** specializing in high-concurrency web platforms, distributed backend services, native Android apps, and cross-platform desktop tooling.
+*  Proven track record building enterprise manufacturing ERP systems, quick-commerce marketplaces, and recommerce platforms handling transactional row-level locking and automated order lifecycles.
+*  Passionate about clean architecture, local-first software design, scalable APIs, and self-hosted cloud deployments.
 
 ---
 
