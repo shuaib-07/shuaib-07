@@ -1,0 +1,24 @@
+<svg width="854" height="220" viewBox="0 0 854 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b3a54" />
+      <stop offset="50%" stop-color="#6b5b7b" />
+      <stop offset="100%" stop-color="#9c7e86" />
+    </linearGradient>
+    <style>
+      .title { font: 700 52px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff; }
+      .desc  { font: 400 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f1f5f9; opacity: 0.92; }
+    </style>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="854" height="200" fill="url(#bgGrad)" />
+
+  <!-- Subtle Layered Wave Footer -->
+  <path d="M 0,185 Q 213,215 427,190 T 854,195 L 854,220 L 0,220 Z" fill="#161b22" opacity="0.45" />
+  <path d="M 0,198 Q 280,175 550,202 T 854,205 L 854,220 L 0,220 Z" fill="#0d1117" />
+
+  <!-- Typography -->
+  <text x="50%" y="95" text-anchor="middle" class="title">Muhammed Shuaib</text>
+  <text x="50%" y="138" text-anchor="middle" class="desc">Software Engineer  |  Full-Stack Architect  |  Systems & Mobile Developer</text>
+</svg>
